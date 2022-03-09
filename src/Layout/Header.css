@@ -1,0 +1,42 @@
+.w-full {
+    width:100%;
+}
+.bg-light1 {
+    background-color: #800614 !important;
+    padding-bottom: 0;
+}
+.navbar-menu {
+    max-height: 100px;
+}
+.navbar-nav {
+    line-height: 40px;
+}
+.navbar-brand {
+color: #fff !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.navbar-expand-lg .navbar-nav-scroll {
+  margin-left: auto;
+  line-height: 50px;
+}
+
+@media screen and (max-width:767px) {
+    .navbar-menu {
+        max-height: auto !important;
+    }
+    .bg-light1 {
+        background-color: #eb4646 !important;
+        padding-bottom: 0;
+      }
+      .navbar-light .navbar-toggler {
+   margin-top: 20px;
+   float: right;
+      }
+}

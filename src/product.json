@@ -1,0 +1,112 @@
+{
+    "Products":[
+ 
+     {
+         "product_id" : "t01",
+         "product_name": "Earrings",
+         "product_img": "../../../img/ear.png",
+         "sub_product" : [
+             {
+                 "sub_product_id" : "S01",
+                 "sub_name" : "Gold simple",
+                 "sub_price" : "Rs. 15000",
+                 "sub_image1" : "../../../img/1.png",
+                 "sub_description" : "This is beautiful"
+             },
+             {
+                 "sub_product_id" : "S02",
+                 "sub_name" : "Gold Designer",
+                 "sub_price" : "Rs. 20000",
+                 "sub_image1" : "../../../img/5.png",
+                 "sub_description" : "This is beautiful"
+             },
+             {
+                 "sub_product_id" : "S03",
+                 "sub_name" : "Wedding Earrings",
+                 "sub_price" : "Rs. 10000",
+                 "sub_image1" : "../../../img/1.png",
+                 "sub_description" : "This is beautiful"
+             },
+             {
+                "sub_product_id" : "S04",
+                "sub_name" : "Golden Style",
+                "sub_price" : "Rs. 12000",
+                "sub_image1" : "../../../img/5.png",
+                "sub_description" : "This is beautiful"
+            }
+         ]
+     
+     },
+ 
+     {
+         "product_id" : "t02",
+         "product_name": "Necklace",
+         "product_img": "../../../img/necklace.png",
+         "sub_product" : [
+             {
+                 "sub_product_id" : "S03",
+                 "sub_name" : "Gold Necklace",
+                 "sub_price" : "Rs. 50000",
+                 "sub_image1" : "../../../img/necklace.png",
+                 "sub_description" : "This is Tasty"
+             },
+             {
+                 "sub_product_id" : "S04",
+                 "sub_name" : "Wedding Necklace",
+                 "sub_price" : "Rs. 52000",
+                 "sub_image1" : "../../../img/necklace.png",
+                 "sub_description" : "This is tasty"
+             }
+         ]
+     
+     },
+ 
+     {
+         "product_id" : "t03",
+         "product_name": "Rings",
+         "product_img": "../../../img/new.png",
+         "sub_product" : [
+             {
+                 "sub_product_id" : "S05",
+                 "sub_name" : "18 Caret",
+                 "sub_price" : "Rs. 22000",
+                 "sub_image1" : "abc",
+                 "sub_description" : "This is Tasty"
+             },
+             {
+                 "sub_product_id" : "S06",
+                 "sub_name" : "22 Caret",
+                 "sub_price" : "Rs. 18000",
+                 "sub_image1" : "../../../img/new.png",
+                 "sub_description" : "This is tasty"
+             }
+         ]
+     
+     },
+
+     {
+        "product_id" : "t04",
+        "product_name": "Bangles",
+        "product_img": "../../../img/new1.png",
+        "sub_product" : [
+            {
+                "sub_product_id" : "S05",
+                "sub_name" : "18 Caret",
+                "sub_price" : "Rs. 22000",
+                "sub_image1" : "abc",
+                "sub_description" : "This is Tasty"
+            },
+            {
+                "sub_product_id" : "S06",
+                "sub_name" : "22 Caret",
+                "sub_price" : "Rs. 18000",
+                "sub_image1" : "abc",
+                "sub_description" : "This is tasty"
+            }
+        ]
+    
+    }
+ 
+ 
+    ]
+ }

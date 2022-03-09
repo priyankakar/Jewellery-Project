@@ -1,0 +1,19 @@
+.about-us {
+    text-align: left;
+}
+
+.pl-5 {
+    padding-left: 50px;
+}
+
+.pr-5 {
+    padding-right: 50px;
+}
+
+
+.about-us h2 {
+    font-weight: 600;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 60px;
+    color: #d5081f;
+}

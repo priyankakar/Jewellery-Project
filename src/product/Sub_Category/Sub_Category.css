@@ -1,0 +1,15 @@
+.view-more {
+    background-color: #800614 !important;
+    border: 0 !important;
+    margin-top: 20px;
+}
+.view-more a {
+    color: #fff;
+    text-decoration: none;
+  
+}
+
+.card-img-top {
+height: 400px;
+width: auto !important;
+}
